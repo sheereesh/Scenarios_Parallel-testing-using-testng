@@ -1,0 +1,18 @@
+22-05-2023---19:20:22.324 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:20:22.324 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:20:22.324 INFO [pool-3-thread-3][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:20:42.041 INFO [pool-3-thread-3][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+22-05-2023---19:20:42.132 INFO [pool-3-thread-3][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:20:42.133 ERROR [pool-3-thread-3][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---19:20:42.256 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+22-05-2023---19:20:42.303 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:20:42.304 ERROR [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---19:20:44.676 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+22-05-2023---19:20:44.680 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:20:44.680 ERROR [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---19:32:00.097 INFO [TestNG-PoolService-4][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:32:00.097 INFO [TestNG-PoolService-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:32:00.097 INFO [TestNG-PoolService-3][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:32:00.097 INFO [TestNG-PoolService-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:32:00.097 INFO [TestNG-PoolService-5][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---19:32:00.097 INFO [TestNG-PoolService-0][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
